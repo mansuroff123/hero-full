@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+/* ------------------ Home Section Begin ------------------ */
+
+.creative {
+    color: #FFE074;
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.home_title {
+   color: #FFFFFF;
+   font-size: 62px;
+   font-weight: 800; 
+}
+
+.home_text {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+/* ------------------ Home Section End ------------------ */
+
+
+
+/* ------------------ About Section Begin ------------------ */
+.gold_text {
+    color: #FFAE00;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.d_title {
+    color: #4F4F4F;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.d_text {
+    font-weight: 300;
+}
+
+.play {
+    color: #F3849F;
+    font-weight: 700;
+}
+/* ------------------ About Section End ------------------ */
+
