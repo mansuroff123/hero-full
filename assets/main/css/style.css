@@ -60,3 +60,40 @@ body {
 }
 /* ------------------ About Section End ------------------ */
 
+
+/* ------------------ Research Section Begin ------------------ */
+.re_title {
+    font-weight: 500;
+}
+.re_text {
+    font-weight: 300;
+    width: 70%;
+}
+
+.box {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+/* ------------------ Research Section End ------------------ */
+
+
+
+/* ------------------ Portfolio Section Begin ------------------ */
+.main_btn {
+    background-color: #F3849F;
+    border-radius: 26px;
+    padding: 2px 24px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.my_link {
+    text-decoration: none;
+    color: #828282;
+}
+/* ------------------ Portfolio Section End ------------------ */
+
+@media screen and (max-width: 768px) {
+    .re_text {
+        width: 100%;
+    }
+}
